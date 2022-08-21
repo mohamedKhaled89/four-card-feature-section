@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/mohamedKhaled89/profile-card-component]
-- Live Site URL: [https://mohamedkhaled89.github.io/profile-card-component/]
+- Solution URL: [https://github.com/mohamedKhaled89/four-card-feature-section]
+- Live Site URL: [https://mohamedkhaled89.github.io/four-card-feature-section/]
 
 ## My process
 
