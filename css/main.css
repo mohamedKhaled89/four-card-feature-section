@@ -96,7 +96,7 @@ header {
     }
 }
 
-h2 {
+h1 {
     font-weight: 200;
     font-size: 2.375rem;
     color: var(--Dark-gray);
@@ -104,7 +104,7 @@ h2 {
     opacity: 0.6;
 }
 
-h1 {
+h2 {
     font-weight: 600;
     font-size: 2.375rem;
     color: var(--Very-Dark-Blue);
@@ -118,11 +118,11 @@ h1 {
 }
 
 @media (max-width:1199px) {
-    h2 {
+    h1 {
         font-size: 1.5rem;
     }
 
-    h1 {
+    h2 {
         font-size: 1.5rem;
     }
 }
@@ -151,7 +151,7 @@ h1 {
 
 .box {
     width: 325px;
-    background-color: var(--Very-Light-Gray);
+    background-color: white;
     border-radius: 0.5rem;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
     padding: 1.75rem;
